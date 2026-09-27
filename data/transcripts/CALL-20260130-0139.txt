@@ -1,0 +1,9 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:27] AGENT: Quillmere Service Center, this is Casey. How can I help?
+[00:31] CALLER: is the tax form going to be paper or in the tax center
+[00:40] AGENT: I am looking at the tax center status on our side.
+[00:45] CALLER: I have e-delivery on I think
+[00:55] AGENT: The FAQ says forms go out by the IRS date and brokerage can take longer.
+[01:05] CALLER: fine I will watch the tax center
+[01:10] CALLER: that's all thanks
+[01:15] AGENT: Thank you for calling Quillmere Service Center.

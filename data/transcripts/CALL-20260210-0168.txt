@@ -1,0 +1,8 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:39] IVR: For tax documents please visit the tax page. Forms are mailed by the IRS due date.
+[00:54] CALLER: um that menu did not answer when I get the form can I speak to a person
+[01:00] AGENT: Quillmere Service Center, this is Quinn. How can I help?
+[01:09] CALLER: I still have not received my 1099
+[01:20] AGENT: Tax documents are mailed by the IRS due date. Allow several days for delivery.
+[01:31] CALLER: that's all thanks
+[01:39] AGENT: Thank you for calling Quillmere Service Center.

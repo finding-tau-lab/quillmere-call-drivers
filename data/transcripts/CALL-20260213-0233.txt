@@ -1,0 +1,8 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:37] AGENT: Quillmere Service Center, this is Riley. How can I help?
+[00:45] CALLER: I need help finding last year's 1099 in the tax center
+[00:56] AGENT: Tax documents that have published should appear under Tax Center.
+[01:01] CALLER: I can sign in I just cannot see teh document list
+[01:07] AGENT: I can walk you to Statements and Documents then Tax Documents.
+[01:17] CALLER: that's all thanks
+[01:23] AGENT: Thank you for calling Quillmere Service Center.

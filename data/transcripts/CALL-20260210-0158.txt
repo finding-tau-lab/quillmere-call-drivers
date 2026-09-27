@@ -1,0 +1,10 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:23] AGENT: Quillmere Service Center, this is Casey. How can I help?
+[00:31] CALLER: where is my 1099 the IRS said January 31
+[00:45] AGENT: Tax documents are mailed by the IRS due date. Allow several days for delivery.
+[00:54] CALLER: my neighbor already received theirs last week
+[01:05] AGENT: Brokerage packages may arrive later. Please check the tax page FAQ.
+[01:10] CALLER: you told people it would be here and it is mid February
+[01:15] AGENT: I know that is the same answer as last year. I can note the complaint.
+[01:20] CALLER: that does not really help but thanks
+[01:23] AGENT: Thank you for calling Quillmere Service Center.

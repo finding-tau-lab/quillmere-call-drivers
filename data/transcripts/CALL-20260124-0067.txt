@@ -1,0 +1,9 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:28] AGENT: Quillmere Service Center, this is Casey. How can I help?
+[00:33] CALLER: just checking if my 1099 is posted yet
+[00:41] AGENT: I am looking at the tax center status on our side.
+[00:47] CALLER: usually they show up in the tax center sometime in January right
+[00:57] AGENT: The FAQ says forms go out by the IRS date and brokerage can take longer.
+[01:02] CALLER: no rush I am early I know
+[01:15] CALLER: okay um thanks
+[01:20] AGENT: Thank you for calling Quillmere Service Center.

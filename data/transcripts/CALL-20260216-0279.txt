@@ -1,0 +1,10 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:20] IVR: For tax documents please visit the tax page. Forms are mailed by the IRS due date.
+[00:28] CALLER: um that menu did not answer when I get the form can I speak to a person
+[00:40] AGENT: Quillmere Service Center, this is Cameron. How can I help?
+[00:46] CALLER: can you email me a copy of teh ten ninety nine
+[00:59] AGENT: Tax documents that have published should appear under Tax Center.
+[01:12] CALLER: I have e-delivery but I want a pdf today
+[01:19] AGENT: I can walk you to Statements and Documents then Tax Documents.
+[01:32] CALLER: that's all thanks
+[01:40] AGENT: Thank you for calling Quillmere Service Center.

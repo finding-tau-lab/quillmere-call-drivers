@@ -1,0 +1,10 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:31] AGENT: Quillmere Service Center, this is Jordan. How can I help?
+[00:39] CALLER: when will I get my ten ninety nine I sold stock last year
+[00:48] AGENT: I am looking at the tax center status on our side.
+[00:55] CALLER: I think this is the brokerage package not the bank interest one
+[01:00] AGENT: The FAQ says forms go out by the IRS date and brokerage can take longer.
+[01:09] CALLER: nobody told me those arrive later than January 31
+[01:17] AGENT: I know that is the same answer as last year. I can note the complaint.
+[01:22] CALLER: that does not really help but thanks
+[01:29] AGENT: Thank you for calling Quillmere Service Center.

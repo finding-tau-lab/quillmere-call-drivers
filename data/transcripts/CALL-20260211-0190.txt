@@ -1,0 +1,10 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:40] AGENT: Quillmere Service Center, this is Hayden. How can I help?
+[00:44] CALLER: when will I get my tax form I sold stock last year
+[00:56] AGENT: I am looking at teh tax center status on our side.
+[01:08] CALLER: I think this is the brokerage package not the bank interest one
+[01:16] AGENT: The FAQ says forms go out by the IRS date and brokerage can take longer.
+[01:27] CALLER: nobody told me those arrive later than January 31
+[01:39] AGENT: I do not have a different date than what is on the tax page.
+[01:47] CALLER: okay um thanks
+[01:53] AGENT: Thank you for calling Quillmere Service Center.

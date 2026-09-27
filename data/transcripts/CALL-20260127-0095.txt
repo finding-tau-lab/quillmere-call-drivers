@@ -1,0 +1,10 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:32] IVR: For tax documents please visit the tax page. Forms are mailed by the IRS due date.
+[00:44] CALLER: um that menu did not answer when I get the form can I speak to a person
+[00:52] AGENT: Quillmere Service Center, this is Avery. How can I help?
+[00:56] CALLER: I saw a note about tax documents and wanted t know the timing for my 1099
+[01:08] AGENT: I am looking at the tax center status on our side.
+[01:15] CALLER: the page said it depends on the account type
+[01:27] AGENT: The FAQ says forms go out by the IRS date and brokerage can take longer.
+[01:34] CALLER: that's all thanks
+[01:42] AGENT: Thank you for calling Quillmere Service Center.

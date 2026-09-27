@@ -1,0 +1,10 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:19] AGENT: Quillmere Service Center, this is Quinn. How can I help?
+[00:27] CALLER: when will I get my 1099 I sold stock last year
+[00:37] AGENT: Tax documents are mailed by the IRS due date. Allow several days for delivery.
+[00:43] CALLER: I think this is the brokerage package not the bank interest one
+[00:51] AGENT: Brokerage packages may arrive later. Please check the tax page FAQ.
+[01:04] CALLER: nobody told me those arrive later than January 31
+[01:15] AGENT: I can read the FAQ again but it does not name a February date.
+[01:21] CALLER: that's all thanks
+[01:24] AGENT: Thank you for calling Quillmere Service Center.

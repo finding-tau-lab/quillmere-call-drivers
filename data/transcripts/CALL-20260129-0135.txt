@@ -1,0 +1,8 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:31] AGENT: Quillmere Service Center, this is Jordan. How can I help?
+[00:39] CALLER: why was I charged an advisory fee this week
+[00:45] AGENT: Fee lines post on a cycle. I can note teh question for review.
+[00:52] CALLER: question on billing the line item looks off
+[00:57] AGENT: Alright I will flag it.
+[01:10] CALLER: okay um thanks
+[01:18] AGENT: Thank you for calling Quillmere Service Center.

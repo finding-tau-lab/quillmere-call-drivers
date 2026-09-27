@@ -1,0 +1,455 @@
+phrase,n_spike,n_baseline,n_total,log_odds_delta,fightin_words_z,c_tfidf_spike,driver_score,ngram,phrase_display
+january_31,73,0,73,1.6118,3.0632,306.9052,0.8707,1,january 31
+pending,46,0,46,1.6091,2.4275,214.3812,0.6693,1,pending
+does not,44,0,44,1.6089,2.3739,206.9981,0.6526,2,does not
+that does,44,0,44,1.6089,2.3739,206.9981,0.6526,2,that does
+that does not,44,0,44,1.6089,2.3739,206.9981,0.6526,3,that does not
+deadline,42,0,42,1.6088,2.319,199.5256,0.6356,1,deadline
+file,41,0,41,1.6087,2.2911,195.7546,0.6269,1,file
+not the,41,0,41,1.6087,2.2911,195.7546,0.6269,2,not the
+when will,41,0,41,1.6087,2.2911,195.7546,0.6269,2,when will
+when will i,41,0,41,1.6087,2.2911,195.7546,0.6269,3,when will i
+will i,41,0,41,1.6087,2.2911,195.7546,0.6269,2,will i
+will i get,41,0,41,1.6087,2.2911,195.7546,0.6269,3,will i get
+received,31,0,31,1.6077,1.991,156.6128,0.5351,1,received
+irs,29,0,29,1.6075,1.9254,148.4308,0.5153,1,irs
+late,29,0,29,1.6075,1.9254,148.4308,0.5153,1,late
+1099 this,26,0,26,1.6072,1.8228,135.899,0.4845,2,1099 this
+1099 this week,26,0,26,1.6072,1.8228,135.899,0.4845,3,1099 this week
+already passed,26,0,26,1.6072,1.8228,135.899,0.4845,2,already passed
+already passed i,26,0,26,1.6072,1.8228,135.899,0.4845,3,already passed i
+cannot file,26,0,26,1.6072,1.8228,135.899,0.4845,2,cannot file
+cannot file january_31,26,0,26,1.6072,1.8228,135.899,0.4845,3,cannot file january 31
+cpa needs,26,0,26,1.6072,1.8228,135.899,0.4845,2,cpa needs
+file january_31,26,0,26,1.6072,1.8228,135.899,0.4845,2,file january 31
+file january_31 already,26,0,26,1.6072,1.8228,135.899,0.4845,3,file january 31 already
+i cannot,26,0,26,1.6072,1.8228,135.899,0.4845,2,i cannot
+i cannot file,26,0,26,1.6072,1.8228,135.899,0.4845,3,i cannot file
+i thought,26,0,26,1.6072,1.8228,135.899,0.4845,2,i thought
+i thought that,26,0,26,1.6072,1.8228,135.899,0.4845,3,i thought that
+january_31 already,26,0,26,1.6072,1.8228,135.899,0.4845,2,january 31 already
+january_31 already passed,26,0,26,1.6072,1.8228,135.899,0.4845,3,january 31 already passed
+my cpa needs,26,0,26,1.6072,1.8228,135.899,0.4845,3,my cpa needs
+passed i,26,0,26,1.6072,1.8228,135.899,0.4845,2,passed i
+passed i thought,26,0,26,1.6072,1.8228,135.899,0.4845,3,passed i thought
+that was,26,0,26,1.6072,1.8228,135.899,0.4845,2,that was
+this week,26,0,26,1.6072,1.8228,135.899,0.4845,2,this week
+this week i,26,0,26,1.6072,1.8228,135.899,0.4845,3,this week i
+thought that,26,0,26,1.6072,1.8228,135.899,0.4845,2,thought that
+thought that was,26,0,26,1.6072,1.8228,135.899,0.4845,3,thought that was
+week i,26,0,26,1.6072,1.8228,135.899,0.4845,2,week i
+week i cannot,26,0,26,1.6072,1.8228,135.899,0.4845,3,week i cannot
+center still,25,0,25,1.6071,1.7873,131.6474,0.4739,2,center still
+center still says,25,0,25,1.6071,1.7873,131.6474,0.4739,3,center still says
+deadline still,25,0,25,1.6071,1.7873,131.6474,0.4739,2,deadline still
+says pending,25,0,25,1.6071,1.7873,131.6474,0.4739,2,says pending
+still says,25,0,25,1.6071,1.7873,131.6474,0.4739,2,still says
+still says pending,25,0,25,1.6071,1.7873,131.6474,0.4739,3,still says pending
+tax center still,25,0,25,1.6071,1.7873,131.6474,0.4739,3,tax center still
+cpa needs the,24,0,24,1.607,1.7511,127.3563,0.4631,3,cpa needs the
+needs the,24,0,24,1.607,1.7511,127.3563,0.4631,2,needs the
+needs the 1099,24,0,24,1.607,1.7511,127.3563,0.4631,3,needs the 1099
+the 1099 this,24,0,24,1.607,1.7511,127.3563,0.4631,3,the 1099 this
+and the,22,0,22,1.6068,1.6763,118.6484,0.441,2,and the
+and the tax,22,0,22,1.6068,1.6763,118.6484,0.441,3,and the tax
+deadline still waiting,22,0,22,1.6068,1.6763,118.6484,0.441,3,deadline still waiting
+still waiting,22,0,22,1.6068,1.6763,118.6484,0.441,2,still waiting
+still waiting and,22,0,22,1.6068,1.6763,118.6484,0.441,3,still waiting and
+waiting,22,0,22,1.6068,1.6763,118.6484,0.441,1,waiting
+waiting and,22,0,22,1.6068,1.6763,118.6484,0.441,2,waiting and
+1099 i sold,21,0,21,1.6067,1.6377,114.2279,0.4296,3,1099 i sold
+1099 is still,21,0,21,1.6067,1.6377,114.2279,0.4296,3,1099 is still
+bank interest,21,0,21,1.6067,1.6377,114.2279,0.4296,2,bank interest
+bank interest one,21,0,21,1.6067,1.6377,114.2279,0.4296,3,bank interest one
+brokerage,21,0,21,1.6067,1.6377,114.2279,0.4296,1,brokerage
+brokerage package,21,0,21,1.6067,1.6377,114.2279,0.4296,2,brokerage package
+brokerage package not,21,0,21,1.6067,1.6377,114.2279,0.4296,3,brokerage package not
+center says,21,0,21,1.6067,1.6377,114.2279,0.4296,2,center says
+center says my,21,0,21,1.6067,1.6377,114.2279,0.4296,3,center says my
+get my,21,0,21,1.6067,1.6377,114.2279,0.4296,2,get my
+get my 1099,21,0,21,1.6067,1.6377,114.2279,0.4296,3,get my 1099
+i get my,21,0,21,1.6067,1.6377,114.2279,0.4296,3,i get my
+i sold,21,0,21,1.6067,1.6377,114.2279,0.4296,2,i sold
+i sold stock,21,0,21,1.6067,1.6377,114.2279,0.4296,3,i sold stock
+i think this,21,0,21,1.6067,1.6377,114.2279,0.4296,3,i think this
+interest one,21,0,21,1.6067,1.6377,114.2279,0.4296,2,interest one
+is still,21,0,21,1.6067,1.6377,114.2279,0.4296,2,is still
+is still pending,21,0,21,1.6067,1.6377,114.2279,0.4296,3,is still pending
+last year i,21,0,21,1.6067,1.6377,114.2279,0.4296,3,last year i
+my 1099 i,21,0,21,1.6067,1.6377,114.2279,0.4296,3,my 1099 i
+not the bank,21,0,21,1.6067,1.6377,114.2279,0.4296,3,not the bank
+package not,21,0,21,1.6067,1.6377,114.2279,0.4296,2,package not
+package not the,21,0,21,1.6067,1.6377,114.2279,0.4296,3,package not the
+pending that,21,0,21,1.6067,1.6377,114.2279,0.4296,2,pending that
+says my,21,0,21,1.6067,1.6377,114.2279,0.4296,2,says my
+says my 1099,21,0,21,1.6067,1.6377,114.2279,0.4296,3,says my 1099
+says pending that,21,0,21,1.6067,1.6377,114.2279,0.4296,3,says pending that
+sold stock,21,0,21,1.6067,1.6377,114.2279,0.4296,2,sold stock
+sold stock last,21,0,21,1.6067,1.6377,114.2279,0.4296,3,sold stock last
+still pending,21,0,21,1.6067,1.6377,114.2279,0.4296,2,still pending
+stock last,21,0,21,1.6067,1.6377,114.2279,0.4296,2,stock last
+stock last year,21,0,21,1.6067,1.6377,114.2279,0.4296,3,stock last year
+tax center says,21,0,21,1.6067,1.6377,114.2279,0.4296,3,tax center says
+the bank,21,0,21,1.6067,1.6377,114.2279,0.4296,2,the bank
+the bank interest,21,0,21,1.6067,1.6377,114.2279,0.4296,3,the bank interest
+think this,21,0,21,1.6067,1.6377,114.2279,0.4296,2,think this
+think this is,21,0,21,1.6067,1.6377,114.2279,0.4296,3,think this is
+this is,21,0,21,1.6067,1.6377,114.2279,0.4296,2,this is
+year i,21,0,21,1.6067,1.6377,114.2279,0.4296,2,year i
+year i think,21,0,21,1.6067,1.6377,114.2279,0.4296,3,year i think
+1099 i,26,1,27,1.0323,1.5341,134.9231,0.4225,2,1099 i
+1099 exactly,20,0,20,1.6066,1.5981,109.7602,0.418,2,1099 exactly
+1099 exactly not,20,0,20,1.6066,1.5981,109.7602,0.418,3,1099 exactly not
+by now,20,0,20,1.6066,1.5981,109.7602,0.418,2,by now
+by now everyone,20,0,20,1.6066,1.5981,109.7602,0.418,3,by now everyone
+does when,20,0,20,1.6066,1.5981,109.7602,0.418,2,does when
+does when will,20,0,20,1.6066,1.5981,109.7602,0.418,3,does when will
+else does,20,0,20,1.6066,1.5981,109.7602,0.418,2,else does
+else does when,20,0,20,1.6066,1.5981,109.7602,0.418,3,else does when
+everyone else,20,0,20,1.6066,1.5981,109.7602,0.418,2,everyone else
+everyone else does,20,0,20,1.6066,1.5981,109.7602,0.418,3,everyone else does
+exactly not,20,0,20,1.6066,1.5981,109.7602,0.418,2,exactly not
+exactly not the,20,0,20,1.6066,1.5981,109.7602,0.418,3,exactly not the
+have it,20,0,20,1.6066,1.5981,109.7602,0.418,2,have it
+have it by,20,0,20,1.6066,1.5981,109.7602,0.418,3,have it by
+is the brokerage,20,0,20,1.6066,1.5981,109.7602,0.418,3,is the brokerage
+it by,20,0,20,1.6066,1.5981,109.7602,0.418,2,it by
+it by now,20,0,20,1.6066,1.5981,109.7602,0.418,3,it by now
+not the usual,20,0,20,1.6066,1.5981,109.7602,0.418,3,not the usual
+now everyone,20,0,20,1.6066,1.5981,109.7602,0.418,2,now everyone
+now everyone else,20,0,20,1.6066,1.5981,109.7602,0.418,3,now everyone else
+pending supposed,20,0,20,1.6066,1.5981,109.7602,0.418,2,pending supposed
+still pending supposed,20,0,20,1.6066,1.5981,109.7602,0.418,3,still pending supposed
+the brokerage,20,0,20,1.6066,1.5981,109.7602,0.418,2,the brokerage
+the brokerage package,20,0,20,1.6066,1.5981,109.7602,0.418,3,the brokerage package
+the usual,20,0,20,1.6066,1.5981,109.7602,0.418,2,the usual
+the usual language,20,0,20,1.6066,1.5981,109.7602,0.418,3,the usual language
+this is the,20,0,20,1.6066,1.5981,109.7602,0.418,3,this is the
+usual language,20,0,20,1.6066,1.5981,109.7602,0.418,2,usual language
+waiting and the,20,0,20,1.6066,1.5981,109.7602,0.418,3,waiting and the
+that was the,19,0,19,1.6065,1.5575,105.2428,0.4062,3,that was the
+the deadline,19,0,19,1.6065,1.5575,105.2428,0.4062,2,the deadline
+was the,19,0,19,1.6065,1.5575,105.2428,0.4062,2,was the
+was the deadline,19,0,19,1.6065,1.5575,105.2428,0.4062,3,was the deadline
+arrive later,18,0,18,1.6064,1.5159,100.6732,0.3941,2,arrive later
+arrive later than,18,0,18,1.6064,1.5159,100.6732,0.3941,3,arrive later than
+get the 1099,18,0,18,1.6064,1.5159,100.6732,0.3941,3,get the 1099
+have not,18,0,18,1.6064,1.5159,100.6732,0.3941,2,have not
+have not received,18,0,18,1.6064,1.5159,100.6732,0.3941,3,have not received
+i still,18,0,18,1.6064,1.5159,100.6732,0.3941,2,i still
+i still have,18,0,18,1.6064,1.5159,100.6732,0.3941,3,i still have
+interest one nobody,18,0,18,1.6064,1.5159,100.6732,0.3941,3,interest one nobody
+later than,18,0,18,1.6064,1.5159,100.6732,0.3941,2,later than
+later than january_31,18,0,18,1.6064,1.5159,100.6732,0.3941,3,later than january 31
+me those,18,0,18,1.6064,1.5159,100.6732,0.3941,2,me those
+me those arrive,18,0,18,1.6064,1.5159,100.6732,0.3941,3,me those arrive
+nobody told,18,0,18,1.6064,1.5159,100.6732,0.3941,2,nobody told
+nobody told me,18,0,18,1.6064,1.5159,100.6732,0.3941,3,nobody told me
+not received,18,0,18,1.6064,1.5159,100.6732,0.3941,2,not received
+not received my,18,0,18,1.6064,1.5159,100.6732,0.3941,3,not received my
+one nobody,18,0,18,1.6064,1.5159,100.6732,0.3941,2,one nobody
+one nobody told,18,0,18,1.6064,1.5159,100.6732,0.3941,3,one nobody told
+pending supposed to,18,0,18,1.6064,1.5159,100.6732,0.3941,3,pending supposed to
+received my,18,0,18,1.6064,1.5159,100.6732,0.3941,2,received my
+received my 1099,18,0,18,1.6064,1.5159,100.6732,0.3941,3,received my 1099
+still have,18,0,18,1.6064,1.5159,100.6732,0.3941,2,still have
+still have not,18,0,18,1.6064,1.5159,100.6732,0.3941,3,still have not
+supposed to,18,0,18,1.6064,1.5159,100.6732,0.3941,2,supposed to
+supposed to have,18,0,18,1.6064,1.5159,100.6732,0.3941,3,supposed to have
+than january_31,18,0,18,1.6064,1.5159,100.6732,0.3941,2,than january 31
+the 1099 exactly,18,0,18,1.6064,1.5159,100.6732,0.3941,3,the 1099 exactly
+the deadline still,18,0,18,1.6064,1.5159,100.6732,0.3941,3,the deadline still
+those arrive,18,0,18,1.6064,1.5159,100.6732,0.3941,2,those arrive
+those arrive later,18,0,18,1.6064,1.5159,100.6732,0.3941,3,those arrive later
+to have,18,0,18,1.6064,1.5159,100.6732,0.3941,2,to have
+to have it,18,0,18,1.6064,1.5159,100.6732,0.3941,3,to have it
+told me,18,0,18,1.6064,1.5159,100.6732,0.3941,2,told me
+told me those,18,0,18,1.6064,1.5159,100.6732,0.3941,3,told me those
+1099 irs,16,0,16,1.6062,1.429,91.3652,0.3689,2,1099 irs
+1099 irs deadline,16,0,16,1.6062,1.429,91.3652,0.3689,3,1099 irs deadline
+deadline was,16,0,16,1.6062,1.429,91.3652,0.3689,2,deadline was
+deadline was january_31,16,0,16,1.6062,1.429,91.3652,0.3689,3,deadline was january 31
+irs deadline,16,0,16,1.6062,1.429,91.3652,0.3689,2,irs deadline
+irs deadline was,16,0,16,1.6062,1.429,91.3652,0.3689,3,irs deadline was
+is this,16,0,16,1.6062,1.429,91.3652,0.3689,2,is this
+is this late,16,0,16,1.6062,1.429,91.3652,0.3689,3,is this late
+january_31 why,16,0,16,1.6062,1.429,91.3652,0.3689,2,january 31 why
+january_31 why is,16,0,16,1.6062,1.429,91.3652,0.3689,3,january 31 why is
+my 1099 irs,16,0,16,1.6062,1.429,91.3652,0.3689,3,my 1099 irs
+this late,16,0,16,1.6062,1.429,91.3652,0.3689,2,this late
+was january_31,16,0,16,1.6062,1.429,91.3652,0.3689,2,was january 31
+was january_31 why,16,0,16,1.6062,1.429,91.3652,0.3689,3,was january 31 why
+why is,16,0,16,1.6062,1.429,91.3652,0.3689,2,why is
+why is this,16,0,16,1.6062,1.429,91.3652,0.3689,3,why is this
+am stuck,15,0,15,1.6061,1.3836,86.6198,0.3559,2,am stuck
+and i,15,0,15,1.6061,1.3836,86.6198,0.3559,2,and i
+and i am,15,0,15,1.6061,1.3836,86.6198,0.3559,3,and i am
+file my,15,0,15,1.6061,1.3836,86.6198,0.3559,2,file my
+file my taxes,15,0,15,1.6061,1.3836,86.6198,0.3559,3,file my taxes
+i am stuck,15,0,15,1.6061,1.3836,86.6198,0.3559,3,i am stuck
+late i,15,0,15,1.6061,1.3836,86.6198,0.3559,2,late i
+late i need,15,0,15,1.6061,1.3836,86.6198,0.3559,3,late i need
+my taxes,15,0,15,1.6061,1.3836,86.6198,0.3559,2,my taxes
+my taxes and,15,0,15,1.6061,1.3836,86.6198,0.3559,3,my taxes and
+taxes,15,0,15,1.6061,1.3836,86.6198,0.3559,1,taxes
+taxes and,15,0,15,1.6061,1.3836,86.6198,0.3559,2,taxes and
+taxes and i,15,0,15,1.6061,1.3836,86.6198,0.3559,3,taxes and i
+this late i,15,0,15,1.6061,1.3836,86.6198,0.3559,3,this late i
+1099,146,32,178,-0.0801,-0.4573,486.7799,0.35,1,1099
+i need to,14,0,14,1.606,1.3366,81.8082,0.3424,3,i need to
+need to,14,0,14,1.606,1.3366,81.8082,0.3424,2,need to
+need to file,14,0,14,1.606,1.3366,81.8082,0.3424,3,need to file
+to file,14,0,14,1.606,1.3366,81.8082,0.3424,2,to file
+to file my,14,0,14,1.606,1.3366,81.8082,0.3424,3,to file my
+1099 my,13,0,13,1.6059,1.2879,76.9254,0.3286,2,1099 my
+1099 my cpa,13,0,13,1.6059,1.2879,76.9254,0.3286,3,1099 my cpa
+allow extra,13,0,13,1.6059,1.2879,76.9254,0.3286,2,allow extra
+allow extra time,13,0,13,1.6059,1.2879,76.9254,0.3286,3,allow extra time
+already received,13,0,13,1.6059,1.2879,76.9254,0.3286,2,already received
+already received theirs,13,0,13,1.6059,1.2879,76.9254,0.3286,3,already received theirs
+and it,13,0,13,1.6059,1.2879,76.9254,0.3286,2,and it
+and it is,13,0,13,1.6059,1.2879,76.9254,0.3286,3,and it is
+are late,13,0,13,1.6059,1.2879,76.9254,0.3286,2,are late
+are late on,13,0,13,1.6059,1.2879,76.9254,0.3286,3,are late on
+asking where,13,0,13,1.6059,1.2879,76.9254,0.3286,2,asking where
+asking where it,13,0,13,1.6059,1.2879,76.9254,0.3286,3,asking where it
+be here,13,0,13,1.6059,1.2879,76.9254,0.3286,2,be here
+be here and,13,0,13,1.6059,1.2879,76.9254,0.3286,3,be here and
+called me,13,0,13,1.6059,1.2879,76.9254,0.3286,2,called me
+called me this,13,0,13,1.6059,1.2879,76.9254,0.3286,3,called me this
+cpa called,13,0,13,1.6059,1.2879,76.9254,0.3286,2,cpa called
+cpa called me,13,0,13,1.6059,1.2879,76.9254,0.3286,3,cpa called me
+extra time,13,0,13,1.6059,1.2879,76.9254,0.3286,2,extra time
+extra time that,13,0,13,1.6059,1.2879,76.9254,0.3286,3,extra time that
+february,13,0,13,1.6059,1.2879,76.9254,0.3286,1,february
+here and,13,0,13,1.6059,1.2879,76.9254,0.3286,2,here and
+here and it,13,0,13,1.6059,1.2879,76.9254,0.3286,3,here and it
+irs said,13,0,13,1.6059,1.2879,76.9254,0.3286,2,irs said
+irs said january_31,13,0,13,1.6059,1.2879,76.9254,0.3286,3,irs said january 31
+is last,13,0,13,1.6059,1.2879,76.9254,0.3286,2,is last
+is last year,13,0,13,1.6059,1.2879,76.9254,0.3286,3,is last year
+is mid,13,0,13,1.6059,1.2879,76.9254,0.3286,2,is mid
+is mid february,13,0,13,1.6059,1.2879,76.9254,0.3286,3,is mid february
+is my,13,0,13,1.6059,1.2879,76.9254,0.3286,2,is my
+is my 1099,13,0,13,1.6059,1.2879,76.9254,0.3286,3,is my 1099
+it is last,13,0,13,1.6059,1.2879,76.9254,0.3286,3,it is last
+it is mid,13,0,13,1.6059,1.2879,76.9254,0.3286,3,it is mid
+it would,13,0,13,1.6059,1.2879,76.9254,0.3286,2,it would
+it would be,13,0,13,1.6059,1.2879,76.9254,0.3286,3,it would be
+january_31 my,13,0,13,1.6059,1.2879,76.9254,0.3286,2,january 31 my
+january_31 my neighbor,13,0,13,1.6059,1.2879,76.9254,0.3286,3,january 31 my neighbor
+january_31 that,13,0,13,1.6059,1.2879,76.9254,0.3286,2,january 31 that
+last week,13,0,13,1.6059,1.2879,76.9254,0.3286,2,last week
+last week you,13,0,13,1.6059,1.2879,76.9254,0.3286,3,last week you
+late on,13,0,13,1.6059,1.2879,76.9254,0.3286,2,late on
+late on my,13,0,13,1.6059,1.2879,76.9254,0.3286,3,late on my
+me this,13,0,13,1.6059,1.2879,76.9254,0.3286,2,me this
+mid february,13,0,13,1.6059,1.2879,76.9254,0.3286,2,mid february
+my 1099 my,13,0,13,1.6059,1.2879,76.9254,0.3286,3,my 1099 my
+my cpa called,13,0,13,1.6059,1.2879,76.9254,0.3286,3,my cpa called
+my neighbor,13,0,13,1.6059,1.2879,76.9254,0.3286,2,my neighbor
+my neighbor already,13,0,13,1.6059,1.2879,76.9254,0.3286,3,my neighbor already
+neighbor,13,0,13,1.6059,1.2879,76.9254,0.3286,1,neighbor
+neighbor already,13,0,13,1.6059,1.2879,76.9254,0.3286,2,neighbor already
+neighbor already received,13,0,13,1.6059,1.2879,76.9254,0.3286,3,neighbor already received
+on my,13,0,13,1.6059,1.2879,76.9254,0.3286,2,on my
+on my 1099,13,0,13,1.6059,1.2879,76.9254,0.3286,3,on my 1099
+page said allow,13,0,13,1.6059,1.2879,76.9254,0.3286,3,page said allow
+people it,13,0,13,1.6059,1.2879,76.9254,0.3286,2,people it
+people it would,13,0,13,1.6059,1.2879,76.9254,0.3286,3,people it would
+received theirs,13,0,13,1.6059,1.2879,76.9254,0.3286,2,received theirs
+received theirs last,13,0,13,1.6059,1.2879,76.9254,0.3286,3,received theirs last
+said allow,13,0,13,1.6059,1.2879,76.9254,0.3286,2,said allow
+said allow extra,13,0,13,1.6059,1.2879,76.9254,0.3286,3,said allow extra
+said january_31,13,0,13,1.6059,1.2879,76.9254,0.3286,2,said january 31
+said january_31 my,13,0,13,1.6059,1.2879,76.9254,0.3286,3,said january 31 my
+than january_31 that,13,0,13,1.6059,1.2879,76.9254,0.3286,3,than january 31 that
+that did,13,0,13,1.6059,1.2879,76.9254,0.3286,2,that did
+that did not,13,0,13,1.6059,1.2879,76.9254,0.3286,3,that did not
+theirs last,13,0,13,1.6059,1.2879,76.9254,0.3286,2,theirs last
+theirs last week,13,0,13,1.6059,1.2879,76.9254,0.3286,3,theirs last week
+time that,13,0,13,1.6059,1.2879,76.9254,0.3286,2,time that
+time that did,13,0,13,1.6059,1.2879,76.9254,0.3286,3,time that did
+told people,13,0,13,1.6059,1.2879,76.9254,0.3286,2,told people
+told people it,13,0,13,1.6059,1.2879,76.9254,0.3286,3,told people it
+week you,13,0,13,1.6059,1.2879,76.9254,0.3286,2,week you
+week you told,13,0,13,1.6059,1.2879,76.9254,0.3286,3,week you told
+where is,13,0,13,1.6059,1.2879,76.9254,0.3286,2,where is
+where is my,13,0,13,1.6059,1.2879,76.9254,0.3286,3,where is my
+where it,13,0,13,1.6059,1.2879,76.9254,0.3286,2,where it
+where it is,13,0,13,1.6059,1.2879,76.9254,0.3286,3,where it is
+would be,13,0,13,1.6059,1.2879,76.9254,0.3286,2,would be
+would be here,13,0,13,1.6059,1.2879,76.9254,0.3286,3,would be here
+you are,13,0,13,1.6059,1.2879,76.9254,0.3286,2,you are
+you are late,13,0,13,1.6059,1.2879,76.9254,0.3286,3,you are late
+you told,13,0,13,1.6059,1.2879,76.9254,0.3286,2,you told
+you told people,13,0,13,1.6059,1.2879,76.9254,0.3286,3,you told people
+1099 the irs,12,0,12,1.6058,1.2373,71.9661,0.3143,3,1099 the irs
+am stuck that,12,0,12,1.6058,1.2373,71.9661,0.3143,3,am stuck that
+language that,12,0,12,1.6058,1.2373,71.9661,0.3143,2,language that
+last year the,12,0,12,1.6058,1.2373,71.9661,0.3143,3,last year the
+me this morning,12,0,12,1.6058,1.2373,71.9661,0.3143,3,me this morning
+morning asking,12,0,12,1.6058,1.2373,71.9661,0.3143,2,morning asking
+morning asking where,12,0,12,1.6058,1.2373,71.9661,0.3143,3,morning asking where
+stuck that,12,0,12,1.6058,1.2373,71.9661,0.3143,2,stuck that
+the irs,12,0,12,1.6058,1.2373,71.9661,0.3143,2,the irs
+the irs said,12,0,12,1.6058,1.2373,71.9661,0.3143,3,the irs said
+this morning,12,0,12,1.6058,1.2373,71.9661,0.3143,2,this morning
+this morning asking,12,0,12,1.6058,1.2373,71.9661,0.3143,3,this morning asking
+usual language that,12,0,12,1.6058,1.2373,71.9661,0.3143,3,usual language that
+year the,12,0,12,1.6058,1.2373,71.9661,0.3143,2,year the
+year the page,12,0,12,1.6058,1.2373,71.9661,0.3143,3,year the page
+cpa,39,5,44,0.332,0.8261,183.4755,0.3072,1,cpa
+my cpa,39,5,44,0.332,0.8261,183.4755,0.3072,2,my cpa
+pending that does,11,0,11,1.6057,1.1845,66.9238,0.2995,3,pending that does
+my 1099,86,16,102,0.052,0.2161,333.3001,0.2855,2,my 1099
+february that,10,0,10,1.6056,1.1293,61.7908,0.2841,2,february that
+mid february that,10,0,10,1.6056,1.1293,61.7908,0.2841,3,mid february that
+pending that s,10,0,10,1.6056,1.1293,61.7908,0.2841,3,pending that s
+i get,94,22,116,-0.1334,-0.6242,352.482,0.2534,2,i get
+january_31 that does,8,0,8,1.6054,1.01,51.2145,0.2511,3,january 31 that does
+language that does,8,0,8,1.6054,1.01,51.2145,0.2511,3,language that does
+last year,43,7,50,0.1551,0.4367,196.8498,0.2342,2,last year
+get the,71,22,93,-0.3691,-1.643,281.5948,0.2025,2,get the
+i get the,71,22,93,-0.3691,-1.643,281.5948,0.2025,3,i get the
+the 1099,45,8,53,0.0873,0.2586,203.4112,0.2011,2,the 1099
+did not,66,22,88,-0.4317,-1.8968,265.3443,0.1908,2,did not
+tax center,55,29,84,-0.837,-3.868,223.6339,0.1608,2,tax center
+answer when,53,22,75,-0.6227,-2.6268,221.4108,0.1592,2,answer when
+answer when i,53,22,75,-0.6227,-2.6268,221.4108,0.1592,3,answer when i
+can i,53,22,75,-0.6227,-2.6268,221.4108,0.1592,2,can i
+did not answer,53,22,75,-0.6227,-2.6268,221.4108,0.1592,3,did not answer
+form can,53,22,75,-0.6227,-2.6268,221.4108,0.1592,2,form can
+form can i,53,22,75,-0.6227,-2.6268,221.4108,0.1592,3,form can i
+get the form,53,22,75,-0.6227,-2.6268,221.4108,0.1592,3,get the form
+not answer,53,22,75,-0.6227,-2.6268,221.4108,0.1592,2,not answer
+not answer when,53,22,75,-0.6227,-2.6268,221.4108,0.1592,3,not answer when
+the form,53,22,75,-0.6227,-2.6268,221.4108,0.1592,2,the form
+the form can,53,22,75,-0.6227,-2.6268,221.4108,0.1592,3,the form can
+to a,53,22,75,-0.6227,-2.6268,221.4108,0.1592,2,to a
+um that,53,22,75,-0.6227,-2.6268,221.4108,0.1592,2,um that
+when i,53,22,75,-0.6227,-2.6268,221.4108,0.1592,2,when i
+when i get,53,22,75,-0.6227,-2.6268,221.4108,0.1592,3,when i get
+s all,50,23,73,-0.7136,-3.0178,210.2091,0.1511,2,s all
+that s,50,23,73,-0.7136,-3.0178,210.2091,0.1511,2,that s
+that s all,50,23,73,-0.7136,-3.0178,210.2091,0.1511,3,that s all
+the tax center,48,27,75,-0.8942,-3.9352,200.523,0.1442,3,the tax center
+the tax,48,28,76,-0.9272,-4.1239,199.897,0.1437,2,the tax
+it is,26,5,31,0.0256,0.0591,131.3526,0.107,2,it is
+i need,24,7,31,-0.3151,-0.8,121.2486,0.0872,2,i need
+1099 is,21,7,28,-0.4287,-1.0624,108.217,0.0778,2,1099 is
+my 1099 is,21,7,28,-0.4287,-1.0624,108.217,0.0778,3,my 1099 is
+i think,21,8,29,-0.5442,-1.4067,107.4844,0.0773,2,i think
+is the,20,7,27,-0.4706,-1.156,103.787,0.0746,2,is the
+i am,15,6,21,-0.5862,-1.3003,81.5914,0.0587,2,i am
+page said,13,9,22,-1.0749,-2.6123,70.1104,0.0504,2,page said
+1099 the,12,6,18,-0.7826,-1.6627,67.1155,0.0483,2,1099 the
+my 1099 the,12,6,18,-0.7826,-1.6627,67.1155,0.0483,3,my 1099 the
+the page,12,6,18,-0.7826,-1.6627,67.1155,0.0483,2,the page
+the page said,12,6,18,-0.7826,-1.6627,67.1155,0.0483,3,the page said
+finding last,9,6,15,-1.0398,-2.0805,51.9719,0.0374,2,finding last
+finding last year,9,6,15,-1.0398,-2.0805,51.9719,0.0374,3,finding last year
+1099 in,9,7,16,-1.1793,-2.462,51.3929,0.037,2,1099 in
+1099 in the,9,7,16,-1.1793,-2.462,51.3929,0.037,3,1099 in the
+can sign,9,7,16,-1.1793,-2.462,51.3929,0.037,2,can sign
+can sign in,9,7,16,-1.1793,-2.462,51.3929,0.037,3,can sign in
+cannot see,9,7,16,-1.1793,-2.462,51.3929,0.037,2,cannot see
+center i can,9,7,16,-1.1793,-2.462,51.3929,0.037,3,center i can
+document list,9,7,16,-1.1793,-2.462,51.3929,0.037,2,document list
+i can sign,9,7,16,-1.1793,-2.462,51.3929,0.037,3,i can sign
+i just,9,7,16,-1.1793,-2.462,51.3929,0.037,2,i just
+i just cannot,9,7,16,-1.1793,-2.462,51.3929,0.037,3,i just cannot
+in i,9,7,16,-1.1793,-2.462,51.3929,0.037,2,in i
+in i just,9,7,16,-1.1793,-2.462,51.3929,0.037,3,in i just
+just cannot,9,7,16,-1.1793,-2.462,51.3929,0.037,2,just cannot
+just cannot see,9,7,16,-1.1793,-2.462,51.3929,0.037,3,just cannot see
+last year s,9,7,16,-1.1793,-2.462,51.3929,0.037,3,last year s
+s 1099,9,7,16,-1.1793,-2.462,51.3929,0.037,2,s 1099
+s 1099 in,9,7,16,-1.1793,-2.462,51.3929,0.037,3,s 1099 in
+sign in,9,7,16,-1.1793,-2.462,51.3929,0.037,2,sign in
+sign in i,9,7,16,-1.1793,-2.462,51.3929,0.037,3,sign in i
+year s,9,7,16,-1.1793,-2.462,51.3929,0.037,2,year s
+year s 1099,9,7,16,-1.1793,-2.462,51.3929,0.037,3,year s 1099
+i can,9,12,21,-1.6695,-3.9853,48.9548,0.0352,2,i can
+center i,9,15,24,-1.8717,-4.6916,47.7586,0.0343,2,center i
+tax center i,9,15,24,-1.8717,-4.6916,47.7586,0.0343,3,tax center i
+in the,9,20,29,-2.1296,-5.6577,46.0647,0.0331,2,in the
+in the tax,9,20,29,-2.1296,-5.6577,46.0647,0.0331,3,in the tax
+teh tax,7,2,9,-0.297,-0.4045,43.9897,0.0316,2,teh tax
+teh tax center,7,2,9,-0.297,-0.4045,43.9897,0.0316,3,teh tax center
+cannot see the,7,5,12,-1.1016,-1.9817,41.9802,0.0302,3,cannot see the
+see the,7,5,12,-1.1016,-1.9817,41.9802,0.0302,2,see the
+see the document,7,5,12,-1.1016,-1.9817,41.9802,0.0302,3,see the document
+the document,7,5,12,-1.1016,-1.9817,41.9802,0.0302,2,the document
+the document list,7,5,12,-1.1016,-1.9817,41.9802,0.0302,3,the document list
+e delivery,6,12,18,-2.0329,-4.3193,33.5577,0.0241,2,e delivery
+have e,5,9,14,-1.9379,-3.6791,29.2172,0.021,2,have e
+have e delivery,5,9,14,-1.9379,-3.6791,29.2172,0.021,3,have e delivery
+i have,5,9,14,-1.9379,-3.6791,29.2172,0.021,2,i have
+i have e,5,9,14,-1.9379,-3.6791,29.2172,0.021,3,i have e
+document list that,4,5,9,-1.6082,-2.5216,25.137,0.0181,3,document list that
+list that,4,5,9,-1.6082,-2.5216,25.137,0.0181,2,list that
+list that s,4,5,9,-1.6082,-2.5216,25.137,0.0181,3,list that s
+going to,1,9,10,-3.2437,-3.7127,6.1791,0.0044,2,going to
+tax documents,1,12,13,-3.4339,-4.1767,5.9173,0.0043,2,tax documents
+a couple,0,8,8,-4.4169,-2.7787,0.0,0.0,2,a couple
+a couple weeks,0,8,8,-4.4169,-2.7787,0.0,0.0,3,a couple weeks
+again in,0,8,8,-4.4169,-2.7787,0.0,0.0,2,again in
+again in a,0,8,8,-4.4169,-2.7787,0.0,0.0,3,again in a
+and wanted to,0,8,8,-4.4169,-2.7787,0.0,0.0,3,and wanted to
+be paper,0,8,8,-4.4169,-2.7787,0.0,0.0,2,be paper
+be paper or,0,8,8,-4.4169,-2.7787,0.0,0.0,3,be paper or
+center i have,0,8,8,-4.4169,-2.7787,0.0,0.0,3,center i have
+couple weeks,0,8,8,-4.4169,-2.7787,0.0,0.0,2,couple weeks
+delivery on,0,8,8,-4.4169,-2.7787,0.0,0.0,2,delivery on
+delivery on i,0,8,8,-4.4169,-2.7787,0.0,0.0,3,delivery on i
+e delivery on,0,8,8,-4.4169,-2.7787,0.0,0.0,3,e delivery on
+i should,0,8,8,-4.4169,-2.7787,0.0,0.0,2,i should
+i should look,0,8,8,-4.4169,-2.7787,0.0,0.0,3,i should look
+in a,0,8,8,-4.4169,-2.7787,0.0,0.0,2,in a
+in a couple,0,8,8,-4.4169,-2.7787,0.0,0.0,3,in a couple
+look again,0,8,8,-4.4169,-2.7787,0.0,0.0,2,look again
+look again in,0,8,8,-4.4169,-2.7787,0.0,0.0,3,look again in
+on i,0,8,8,-4.4169,-2.7787,0.0,0.0,2,on i
+on i think,0,8,8,-4.4169,-2.7787,0.0,0.0,3,on i think
+or in,0,8,8,-4.4169,-2.7787,0.0,0.0,2,or in
+or in the,0,8,8,-4.4169,-2.7787,0.0,0.0,3,or in the
+paper or,0,8,8,-4.4169,-2.7787,0.0,0.0,2,paper or
+paper or in,0,8,8,-4.4169,-2.7787,0.0,0.0,3,paper or in
+should look,0,8,8,-4.4169,-2.7787,0.0,0.0,2,should look
+should look again,0,8,8,-4.4169,-2.7787,0.0,0.0,3,should look again
+so i,0,8,8,-4.4169,-2.7787,0.0,0.0,2,so i
+so i should,0,8,8,-4.4169,-2.7787,0.0,0.0,3,so i should
+to know,0,8,8,-4.4169,-2.7787,0.0,0.0,2,to know
+to know the,0,8,8,-4.4169,-2.7787,0.0,0.0,3,to know the
+wanted to,0,8,8,-4.4169,-2.7787,0.0,0.0,2,wanted to
+wanted to know,0,8,8,-4.4169,-2.7787,0.0,0.0,3,wanted to know
+a note,0,9,9,-4.4174,-2.9476,0.0,0.0,2,a note
+a note about,0,9,9,-4.4174,-2.9476,0.0,0.0,3,a note about
+about tax,0,9,9,-4.4174,-2.9476,0.0,0.0,2,about tax
+about tax documents,0,9,9,-4.4174,-2.9476,0.0,0.0,3,about tax documents
+account type,0,9,9,-4.4174,-2.9476,0.0,0.0,2,account type
+and wanted,0,9,9,-4.4174,-2.9476,0.0,0.0,2,and wanted
+depends on,0,9,9,-4.4174,-2.9476,0.0,0.0,2,depends on
+depends on the,0,9,9,-4.4174,-2.9476,0.0,0.0,3,depends on the
+documents and,0,9,9,-4.4174,-2.9476,0.0,0.0,2,documents and
+documents and wanted,0,9,9,-4.4174,-2.9476,0.0,0.0,3,documents and wanted
+for my,0,9,9,-4.4174,-2.9476,0.0,0.0,2,for my
+for my 1099,0,9,9,-4.4174,-2.9476,0.0,0.0,3,for my 1099
+i saw,0,9,9,-4.4174,-2.9476,0.0,0.0,2,i saw
+i saw a,0,9,9,-4.4174,-2.9476,0.0,0.0,3,i saw a
+it depends,0,9,9,-4.4174,-2.9476,0.0,0.0,2,it depends
+it depends on,0,9,9,-4.4174,-2.9476,0.0,0.0,3,it depends on
+know the,0,9,9,-4.4174,-2.9476,0.0,0.0,2,know the
+note about,0,9,9,-4.4174,-2.9476,0.0,0.0,2,note about
+note about tax,0,9,9,-4.4174,-2.9476,0.0,0.0,3,note about tax
+on the,0,9,9,-4.4174,-2.9476,0.0,0.0,2,on the
+on the account,0,9,9,-4.4174,-2.9476,0.0,0.0,3,on the account
+page said it,0,9,9,-4.4174,-2.9476,0.0,0.0,3,page said it
+said it,0,9,9,-4.4174,-2.9476,0.0,0.0,2,said it
+said it depends,0,9,9,-4.4174,-2.9476,0.0,0.0,3,said it depends
+saw a,0,9,9,-4.4174,-2.9476,0.0,0.0,2,saw a
+saw a note,0,9,9,-4.4174,-2.9476,0.0,0.0,3,saw a note
+tax documents and,0,9,9,-4.4174,-2.9476,0.0,0.0,3,tax documents and
+the account,0,9,9,-4.4174,-2.9476,0.0,0.0,2,the account
+the account type,0,9,9,-4.4174,-2.9476,0.0,0.0,3,the account type

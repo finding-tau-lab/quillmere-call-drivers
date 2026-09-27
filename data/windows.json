@@ -1,0 +1,21 @@
+{
+  "seed": 20260210,
+  "firm": "Quillmere Service Center",
+  "season": "TY2025 / filing season 2026",
+  "baseline": {
+    "start": "2026-01-20",
+    "end": "2026-01-31",
+    "role": "same-year normal week(s) before the standalone furnish date"
+  },
+  "spike": {
+    "start": "2026-02-10",
+    "end": "2026-02-21",
+    "role": "mid-February timing-confusion window before consolidated furnish date"
+  },
+  "public_dates": {
+    "standalone_recipient": "2026-02-02",
+    "consolidated_1099b_recipient": "2026-02-17",
+    "note": "Weekend and Presidents Day shifts. Not a Quillmere mail calendar."
+  },
+  "n_calls": 384
+}

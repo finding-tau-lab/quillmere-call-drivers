@@ -1,0 +1,10 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:35] AGENT: Quillmere Service Center, this is Jordan. How can I help?
+[00:39] CALLER: my CPA needs the ten ninety nine this week I cannot file
+[00:53] AGENT: I am looking at the tax center status on our side.
+[01:05] CALLER: january 31 already passed I thought that was teh deadline
+[01:15] AGENT: The FAQ says forms go out by the IRS date and brokerage can take longer.
+[01:27] CALLER: still waiting and the tax center still says pending
+[01:36] AGENT: I know that is the same answer as last year. I can note the complaint.
+[01:49] CALLER: okay um thanks
+[01:52] AGENT: Thank you for calling Quillmere Service Center.

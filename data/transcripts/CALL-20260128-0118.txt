@@ -1,0 +1,9 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:21] AGENT: Quillmere Service Center, this is Casey. How can I help?
+[00:28] CALLER: when do the 1099s usually go out
+[00:36] AGENT: If it is not in the tax center yet it may still be in mailing.
+[00:45] CALLER: I like to give my CPA a heads up
+[00:58] AGENT: The tax page says allow extra time after January 31.
+[01:06] CALLER: if it is not there yet I can wait
+[01:11] CALLER: that's all thanks
+[01:15] AGENT: Thank you for calling Quillmere Service Center.

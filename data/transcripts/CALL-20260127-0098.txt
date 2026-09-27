@@ -1,0 +1,9 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:21] AGENT: Quillmere Service Center, this is Sage. How can I help?
+[00:29] CALLER: when do the ten nine nines usually go out
+[00:34] AGENT: If it is not in the tax center yet it may still be in mailing.
+[00:44] CALLER: I like to give my CPA a heads up
+[00:49] AGENT: The tax page says allow extra time after January 31.
+[01:02] CALLER: if it is not there yet I can wait
+[01:12] CALLER: okay um thanks
+[01:15] AGENT: Thank you for calling Quillmere Service Center.

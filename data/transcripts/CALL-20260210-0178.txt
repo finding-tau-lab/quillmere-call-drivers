@@ -1,0 +1,10 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:19] AGENT: Quillmere Service Center, this is Hayden. How can I help?
+[00:26] CALLER: where is my 1099 the IRS said January 31
+[00:33] AGENT: If it is not in the tax center yet it may still be in mailing.
+[00:41] CALLER: my neighbor already received theirs last week
+[00:46] AGENT: The tax page says allow extra time after January 31.
+[00:59] CALLER: you told people it would be here and it is mid February
+[01:05] AGENT: I can read the FAQ again but it does not name a February date.
+[01:14] CALLER: that's all thanks
+[01:18] AGENT: Thank you for calling Quillmere Service Center.

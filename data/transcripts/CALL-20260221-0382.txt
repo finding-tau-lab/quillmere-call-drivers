@@ -1,0 +1,10 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:40] AGENT: Quillmere Service Center, this is Avery. How can I help?
+[00:45] CALLER: when will I get my ten ninety nine I sold stock last year
+[00:53] AGENT: Tax documents are mailed by the IRS due date. Allow several days for delivery.
+[01:02] CALLER: I think this is the brokerage package not the bank interest one
+[01:16] AGENT: Brokerage packages may arrive later. Please check the tax page FAQ.
+[01:25] CALLER: nobody told me those arrive later than January 31
+[01:38] AGENT: I know that is the same answer as last year. I can note the complaint.
+[01:50] CALLER: that does not really help but thanks
+[01:54] AGENT: Thank you for calling Quillmere Service Center.

@@ -1,0 +1,10 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:30] AGENT: Quillmere Service Center, this is Hayden. How can I help?
+[00:39] CALLER: the tax center says my 1099 is still pending
+[00:45] AGENT: If it is not in the tax center yet it may still be in mailing.
+[00:57] CALLER: supposed t have it by now everyone else does
+[01:05] AGENT: The tax page says allow extra time after January 31.
+[01:14] CALLER: when will I get the 1099 exactly not the usual language
+[01:25] AGENT: I do not have a different date than what is on the tax page.
+[01:33] CALLER: that does not really help but thanks
+[01:39] AGENT: Thank you for calling Quillmere Service Center.

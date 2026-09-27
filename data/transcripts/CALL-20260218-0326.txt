@@ -1,0 +1,8 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:30] AGENT: Quillmere Service Center, this is Hayden. How can I help?
+[00:38] CALLER: can you email me a copy of the 1099
+[00:50] AGENT: Tax documents that have published should appear under Tax Center.
+[00:55] CALLER: I have e-delivery but I want a pdf today
+[01:01] AGENT: I can walk you to Statements and Documents then Tax Documents.
+[01:14] CALLER: that's all thanks
+[01:21] AGENT: Thank you for calling Quillmere Service Center.

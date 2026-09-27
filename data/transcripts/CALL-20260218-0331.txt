@@ -1,0 +1,10 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:30] AGENT: Quillmere Service Center, this is Sage. How can I help?
+[00:36] CALLER: when will I get my tax form I sold stock last year
+[00:50] AGENT: Tax documents are mailed by the IRS due date. Allow several days for delivery.
+[00:59] CALLER: I think this is the brokerage package not the bank interest one
+[01:06] AGENT: Brokerage packages may arrive later. Please check the tax page FAQ.
+[01:13] CALLER: nobody told me those arrive later than January 31
+[01:21] AGENT: I know that is the same answer as last year. I can note the complaint.
+[01:28] CALLER: that does not really help but thanks
+[01:31] AGENT: Thank you for calling Quillmere Service Center.

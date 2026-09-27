@@ -1,0 +1,9 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:37] AGENT: Quillmere Service Center, this is Quinn. How can I help?
+[00:41] CALLER: when do the 1099s usually go out
+[00:47] AGENT: I am looking at the tax center status on our side.
+[00:52] CALLER: I like to give my CPA a heads up
+[00:58] AGENT: The FAQ says forms go out by the IRS date and brokerage can take longer.
+[01:11] CALLER: if it is not there yet I can wait
+[01:20] CALLER: that's all thanks
+[01:24] AGENT: Thank you for calling Quillmere Service Center.

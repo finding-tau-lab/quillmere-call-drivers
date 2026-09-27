@@ -1,0 +1,10 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:20] AGENT: Quillmere Service Center, this is Cameron. How can I help?
+[00:25] CALLER: my CPA needs the tax form this week I cannot file
+[00:37] AGENT: Tax documents are mailed by teh IRS due date. Allow several days for delivery.
+[00:50] CALLER: january 31 already passed I thought that was the deadline
+[00:57] AGENT: Brokerage packages may arrive later. Please check the tax page FAQ.
+[01:04] CALLER: still waiting and the tax center still says pending
+[01:14] AGENT: I can read the FAQ again but it does not name a February date.
+[01:21] CALLER: that does not really help but thanks
+[01:24] AGENT: Thank you for calling Quillmere Service Center.

@@ -1,0 +1,12 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:29] IVR: For tax documents please visit the tax page. Forms are mailed by the IRS due date.
+[00:37] CALLER: um that menu did not answer when I get the form can I speak to a person
+[00:44] AGENT: Quillmere Service Center, this is Cameron. How can I help?
+[00:49] CALLER: the tax center says my 1099 is still pending
+[01:00] AGENT: If it is not in the tax center yet it may still be in mailing.
+[01:13] CALLER: supposed to have it by now everyone else does
+[01:26] AGENT: The tax page says allow extra time after January 31.
+[01:39] CALLER: when will I get the 1099 exactly not the usual language
+[01:50] AGENT: I know that is the same answer as last year. I can note the complaint.
+[01:56] CALLER: that's all thanks
+[02:04] AGENT: Thank you for calling Quillmere Service Center.

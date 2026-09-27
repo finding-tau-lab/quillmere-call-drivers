@@ -1,0 +1,12 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:34] IVR: For tax documents please visit the tax page. Forms are mailed by the IRS due date.
+[00:43] CALLER: um that menu did not answer when I get the form can I speak to a person
+[00:55] AGENT: Quillmere Service Center, this is Riley. How can I help?
+[01:02] CALLER: I still have not received my 1099
+[01:07] AGENT: Tax documents are mailed by teh IRS due date. Allow several days for delivery.
+[01:14] CALLER: IRS deadline was January 31 why is this late
+[01:28] AGENT: Brokerage packages may arrive later. Please check the tax page FAQ.
+[01:33] CALLER: I need to file my taxes and I am stuck
+[01:39] AGENT: I know that is the same answer as last year. I can note the complaint.
+[01:45] CALLER: okay um thanks
+[01:52] AGENT: Thank you for calling Quillmere Service Center.

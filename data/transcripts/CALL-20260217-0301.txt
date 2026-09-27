@@ -1,0 +1,10 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:28] AGENT: Quillmere Service Center, this is Jordan. How can I help?
+[00:33] CALLER: I still have not received my 1099
+[00:39] AGENT: Tax documents are mailed by the IRS due date. Allow several days for delivery.
+[00:44] CALLER: IRS deadline was January 31 why is this late
+[00:58] AGENT: Brokerage packages may arrive later. Please check the tax page FAQ.
+[01:09] CALLER: I need to file my taxes and I am stuck
+[01:21] AGENT: I know that is the same answer as last year. I can note the complaint.
+[01:28] CALLER: that does not really help but thanks
+[01:35] AGENT: Thank you for calling Quillmere Service Center.

@@ -1,0 +1,8 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:39] AGENT: Quillmere Service Center, this is Casey. How can I help?
+[00:44] CALLER: I can't log in to the app it just spins
+[00:58] AGENT: Are you on the mobile app or the website?
+[01:08] CALLER: portal says try again later
+[01:19] AGENT: I am not seeing a completed password reset on our side.
+[01:27] CALLER: that's all thanks
+[01:35] AGENT: Thank you for calling Quillmere Service Center.

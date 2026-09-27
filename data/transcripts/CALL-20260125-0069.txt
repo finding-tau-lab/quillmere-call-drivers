@@ -1,0 +1,9 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:36] AGENT: Quillmere Service Center, this is Riley. How can I help?
+[00:42] CALLER: just checking if my tax form is posted yet
+[00:50] AGENT: I am looking at the tax center status on our side.
+[00:58] CALLER: usually they show up in the tax center sometime in January right
+[01:04] AGENT: The FAQ says forms go out by the IRS date and brokerage can take longer.
+[01:16] CALLER: no rush I am early I know
+[01:23] CALLER: okay um thanks
+[01:26] AGENT: Thank you for calling Quillmere Service Center.

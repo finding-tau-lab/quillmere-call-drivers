@@ -1,0 +1,10 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:40] AGENT: Quillmere Service Center, this is Casey. How can I help?
+[00:44] CALLER: when will I get my 1099 I sold stock last year
+[00:53] AGENT: I am looking at teh tax center status on our side.
+[00:58] CALLER: I think this is the brokerage package not the bank interest one
+[01:12] AGENT: The FAQ says forms go out by the IRS date and brokerage can take longer.
+[01:23] CALLER: nobody told me those arrive later than January 31
+[01:29] AGENT: I can read the FAQ again but it does not name a February date.
+[01:41] CALLER: okay um thanks
+[01:47] AGENT: Thank you for calling Quillmere Service Center.

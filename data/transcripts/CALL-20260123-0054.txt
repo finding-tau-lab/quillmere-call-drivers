@@ -1,0 +1,11 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:17] IVR: For tax documents please visit the tax page. Forms are mailed by the IRS due date.
+[00:32] CALLER: um that menu did not answer when I get the form can I speak to a person
+[00:44] AGENT: Quillmere Service Center, this is Sage. How can I help?
+[00:49] CALLER: just checking if my ten nine nine is posted yet
+[00:58] AGENT: I am looking at the tax center status on our side.
+[01:03] CALLER: usually they show up in the tax center sometime in January right
+[01:12] AGENT: The FAQ says forms go out by teh IRS date and brokerage can take longer.
+[01:24] CALLER: no rush I am early I know
+[01:36] CALLER: okay um thanks
+[01:41] AGENT: Thank you for calling Quillmere Service Center.

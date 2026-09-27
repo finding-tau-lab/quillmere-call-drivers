@@ -1,0 +1,10 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:18] AGENT: Quillmere Service Center, this is Morgan. How can I help?
+[00:23] CALLER: where is my ten ninety nine the IRS said January 31
+[00:28] AGENT: I am looking at the tax center status on our side.
+[00:33] CALLER: my neighbor already received theirs last week
+[00:45] AGENT: The FAQ says forms go out by the IRS date and brokerage can take longer.
+[00:56] CALLER: you told people it would be here and it is mid February
+[01:02] AGENT: I do not have a different date than what is on the tax page.
+[01:14] CALLER: that does not really help but thanks
+[01:22] AGENT: Thank you for calling Quillmere Service Center.

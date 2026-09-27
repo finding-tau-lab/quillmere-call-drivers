@@ -1,0 +1,8 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:23] AGENT: Quillmere Service Center, this is Jordan. How can I help?
+[00:30] CALLER: I need to update my address we moved last month
+[00:42] AGENT: I can take teh new address. I will repeat it back.
+[00:48] CALLER: change my email on file teh old one is shut down
+[00:57] AGENT: Please do I do not want a statement goin to teh old place.
+[01:05] CALLER: okay um thanks
+[01:10] AGENT: Thank you for calling Quillmere Service Center.

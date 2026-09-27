@@ -1,0 +1,13 @@
+{
+  "n_calls": 167,
+  "n_baseline": 40,
+  "n_spike": 127,
+  "n_phrases_scored": 454,
+  "top_phrase": "january 31",
+  "top_z": 3.0632,
+  "alpha0": 500.0,
+  "driver_weights": {
+    "z": 0.65,
+    "c_tfidf": 0.35
+  }
+}

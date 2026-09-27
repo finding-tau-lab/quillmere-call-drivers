@@ -1,0 +1,10 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:26] AGENT: Quillmere Service Center, this is Sage. How can I help?
+[00:35] CALLER: my CPA needs the 1099 this week I cannot file
+[00:41] AGENT: I am looking at the tax center status on our side.
+[00:53] CALLER: january 31 already passed I thought that was the deadline
+[01:02] AGENT: The FAQ says forms go out by the IRS date and brokerage can take longer.
+[01:14] CALLER: still waitin and teh tax center still says pending
+[01:23] AGENT: I do not have a different date than what is on the tax page.
+[01:33] CALLER: that's all thanks
+[01:38] AGENT: Thank you for calling Quillmere Service Center.

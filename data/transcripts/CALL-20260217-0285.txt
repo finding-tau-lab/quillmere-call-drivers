@@ -1,0 +1,10 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:24] AGENT: Quillmere Service Center, this is Cameron. How can I help?
+[00:31] CALLER: I still have not received my 1099
+[00:44] AGENT: I am lookin at the tax center status on our side.
+[00:54] CALLER: IRS deadline was January 31 why is this late
+[01:01] AGENT: The FAQ says forms go out by the IRS date and brokerage can take longer.
+[01:14] CALLER: I need to file my taxes and I am stuck
+[01:20] AGENT: I know that is teh same answer as last year. I can note the complaint.
+[01:28] CALLER: that does not really help but thanks
+[01:32] AGENT: Thank you for calling Quillmere Service Center.

@@ -1,0 +1,8 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:39] AGENT: Quillmere Service Center, this is Sage. How can I help?
+[00:48] CALLER: why was I charged an advisory fee this week
+[00:56] AGENT: Fee lines post on a cycle. I can note the question for review.
+[01:01] CALLER: question on billing the line item looks off
+[01:12] AGENT: Alright I will flag it.
+[01:22] CALLER: okay um thanks
+[01:29] AGENT: Thank you for calling Quillmere Service Center.

@@ -1,0 +1,12 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:27] IVR: For tax documents please visit the tax page. Forms are mailed by the IRS due date.
+[00:40] CALLER: um that menu did not answer when I get the form can I speak to a person
+[00:51] AGENT: Quillmere Service Center, this is Jordan. How can I help?
+[00:58] CALLER: you are late on my ten ninety nine
+[01:07] AGENT: If it is not in the tax center yet it may still be in mailing.
+[01:20] CALLER: my CPA called me this morning asking where it is
+[01:27] AGENT: The tax page says allow extra time after January 31.
+[01:34] CALLER: last year teh page said allow extra time that did not help
+[01:40] AGENT: I know that is the same answer as last year. I can note the complaint.
+[01:47] CALLER: that does not really help but thanks
+[01:53] AGENT: Thank you for calling Quillmere Service Center.

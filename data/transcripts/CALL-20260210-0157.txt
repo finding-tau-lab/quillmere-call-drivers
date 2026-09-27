@@ -1,0 +1,10 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:39] AGENT: Quillmere Service Center, this is Reese. How can I help?
+[00:43] CALLER: teh tax center says my ten nine nine is still pending
+[00:52] AGENT: Tax documents are mailed by the IRS due date. Allow several days for delivery.
+[01:03] CALLER: supposed to have it by now everyone else does
+[01:12] AGENT: Brokerage packages may arrive later. Please check the tax page FAQ.
+[01:24] CALLER: when will I get the 1099 exactly not the usual language
+[01:33] AGENT: I know that is the same answer as last year. I can note the complaint.
+[01:41] CALLER: okay um thanks
+[01:49] AGENT: Thank you for calling Quillmere Service Center.

@@ -1,0 +1,8 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:16] AGENT: Quillmere Service Center, this is Quinn. How can I help?
+[00:21] CALLER: calling about a confirmation I thought I would get
+[00:26] AGENT: I have the profile open. What should I confirm?
+[00:33] CALLER: just wanted to confirm you have my mobile number
+[00:46] AGENT: Just that you can reach me if somethin posts.
+[00:55] CALLER: that's all thanks
+[00:58] AGENT: Thank you for calling Quillmere Service Center.

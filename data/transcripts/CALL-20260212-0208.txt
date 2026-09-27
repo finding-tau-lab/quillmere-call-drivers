@@ -1,0 +1,12 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:32] IVR: For tax documents please visit the tax page. Forms are mailed by the IRS due date.
+[00:47] CALLER: um that menu did not answer when I get the form can I speak to a person
+[00:54] AGENT: Quillmere Service Center, this is Hayden. How can I help?
+[01:00] CALLER: my CPA needs the tax form this week I cannot file
+[01:10] AGENT: Tax documents are mailed by the IRS due date. Allow several days for delivery.
+[01:21] CALLER: january 31 already passed I thought that was the deadline
+[01:32] AGENT: Brokerage packages may arrive later. Please check the tax page FAQ.
+[01:41] CALLER: still waiting and the tax center still says pending
+[01:46] AGENT: I do not have a different date than what is on the tax page.
+[01:55] CALLER: that's all thanks
+[02:03] AGENT: Thank you for calling Quillmere Service Center.

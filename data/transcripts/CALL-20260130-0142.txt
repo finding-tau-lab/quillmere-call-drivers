@@ -1,0 +1,9 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:23] AGENT: Quillmere Service Center, this is Hayden. How can I help?
+[00:30] CALLER: I saw a note about tax documents and wanted to know the timing for my 1099
+[00:35] AGENT: I am looking at the tax center status on our side.
+[00:44] CALLER: the page said it depends on the account type
+[00:52] AGENT: The FAQ says forms go out by the IRS date and brokerage can take longer.
+[00:57] CALLER: okay so I should look again in a couple weeks
+[01:04] CALLER: okay um thanks
+[01:11] AGENT: Thank you for calling Quillmere Service Center.

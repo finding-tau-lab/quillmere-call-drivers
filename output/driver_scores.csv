@@ -1,0 +1,26 @@
+phrase,n_spike,n_baseline,n_total,log_odds_delta,fightin_words_z,c_tfidf_spike,driver_score,ngram,phrase_display
+january 31,73,0,73,1.6118,3.0632,306.9052,0.8707,1,january 31
+pending,46,0,46,1.6091,2.4275,214.3812,0.6693,1,pending
+deadline,42,0,42,1.6088,2.319,199.5256,0.6356,1,deadline
+file,41,0,41,1.6087,2.2911,195.7546,0.6269,1,file
+when will,41,0,41,1.6087,2.2911,195.7546,0.6269,2,when will
+received,31,0,31,1.6077,1.991,156.6128,0.5351,1,received
+irs,29,0,29,1.6075,1.9254,148.4308,0.5153,1,irs
+late,29,0,29,1.6075,1.9254,148.4308,0.5153,1,late
+already passed,26,0,26,1.6072,1.8228,135.899,0.4845,2,already passed
+cannot file,26,0,26,1.6072,1.8228,135.899,0.4845,2,cannot file
+cannot file january 31,26,0,26,1.6072,1.8228,135.899,0.4845,3,cannot file january 31
+cpa needs,26,0,26,1.6072,1.8228,135.899,0.4845,2,cpa needs
+file january 31,26,0,26,1.6072,1.8228,135.899,0.4845,2,file january 31
+file january 31 already,26,0,26,1.6072,1.8228,135.899,0.4845,3,file january 31 already
+i cannot file,26,0,26,1.6072,1.8228,135.899,0.4845,3,i cannot file
+january 31 already,26,0,26,1.6072,1.8228,135.899,0.4845,2,january 31 already
+january 31 already passed,26,0,26,1.6072,1.8228,135.899,0.4845,3,january 31 already passed
+my cpa needs,26,0,26,1.6072,1.8228,135.899,0.4845,3,my cpa needs
+passed i,26,0,26,1.6072,1.8228,135.899,0.4845,2,passed i
+passed i thought,26,0,26,1.6072,1.8228,135.899,0.4845,3,passed i thought
+center still,25,0,25,1.6071,1.7873,131.6474,0.4739,2,center still
+center still says,25,0,25,1.6071,1.7873,131.6474,0.4739,3,center still says
+deadline still,25,0,25,1.6071,1.7873,131.6474,0.4739,2,deadline still
+says pending,25,0,25,1.6071,1.7873,131.6474,0.4739,2,says pending
+still says,25,0,25,1.6071,1.7873,131.6474,0.4739,2,still says

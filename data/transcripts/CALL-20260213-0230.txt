@@ -1,0 +1,12 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:28] IVR: For tax documents please visit the tax page. Forms are mailed by the IRS due date.
+[00:37] CALLER: um that menu did not answer when I get the form can I speak to a person
+[00:45] AGENT: Quillmere Service Center, this is Riley. How can I help?
+[00:51] CALLER: when will I get my 1099 I sold stock last year
+[00:57] AGENT: I am looking at teh tax center status on our side.
+[01:02] CALLER: I think this is teh brokerage package not the bank interest one
+[01:11] AGENT: The FAQ says forms go out by the IRS date and brokerage can take longer.
+[01:21] CALLER: nobody told me those arrive later than January 31
+[01:35] AGENT: I can read the FAQ again but it does not name a February date.
+[01:43] CALLER: that's all thanks
+[01:46] AGENT: Thank you for calling Quillmere Service Center.

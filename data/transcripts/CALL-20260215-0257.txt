@@ -1,0 +1,8 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:28] AGENT: Quillmere Service Center, this is Casey. How can I help?
+[00:37] CALLER: I want to transfer funds I started it in the app and it stalled
+[00:46] AGENT: I see a transfer request in a pending state.
+[00:58] CALLER: checking on an ACH I submitted yesterday
+[01:09] AGENT: I cannot release it from this line.
+[01:20] CALLER: that's all thanks
+[01:28] AGENT: Thank you for calling Quillmere Service Center.

@@ -1,0 +1,40 @@
+# Case-insensitive substrings that must not appear in this repo
+# except where scripts/check_forbidden_terms.py allow-lists a path.
+# Tax-season vocabulary is in-scope for this demo (1099, IRS, tax page).
+# Employer, vendor, peer-bank, and site names stay out.
+wells
+wellsfargo
+wellsfargo.com
+wfc
+wim
+teradata
+oracle
+nice nexidia
+nexidia query
+query pack
+schwab
+fidelity
+vanguard
+blackrock
+jpmorgan
+jpm
+chase
+bank of america
+bofa
+citibank
+goldman
+morgan stanley
+ameritrade
+td ameritrade
+e-trade
+etrade
+charles schwab
+ssn
+social security
+slc
+clt
+phx
+salt lake
+charlotte
+phoenix
+denver

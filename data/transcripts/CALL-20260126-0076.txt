@@ -1,0 +1,9 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:25] AGENT: Quillmere Service Center, this is Hayden. How can I help?
+[00:30] CALLER: I saw a note about tax documents and wanted to know the timin for my 1099
+[00:38] AGENT: If it is not in the tax center yet it may still be in mailing.
+[00:46] CALLER: teh page said it depends on the account type
+[00:53] AGENT: The tax page says allow extra time after January 31.
+[00:59] CALLER: okay so I should look again in a couple weeks
+[01:06] CALLER: that's all thanks
+[01:14] AGENT: Thank you for calling Quillmere Service Center.

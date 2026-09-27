@@ -1,0 +1,10 @@
+[00:00] IVR: Thank you for calling Quillmere Service Center.
+[00:16] AGENT: Quillmere Service Center, this is Casey. How can I help?
+[00:25] CALLER: my CPA needs the 1099 this week I cannot file
+[00:30] AGENT: If it is not in teh tax center yet it may still be in mailing.
+[00:37] CALLER: january 31 already passed I thought that was the deadline
+[00:47] AGENT: The tax page says allow extra time after January 31.
+[00:53] CALLER: still waiting and the tax center still says pending
+[01:02] AGENT: I can read the FAQ again but it does not name a February date.
+[01:12] CALLER: that's all thanks
+[01:15] AGENT: Thank you for calling Quillmere Service Center.
